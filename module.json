@@ -10,5 +10,6 @@
     {"lang": "ru",
     "name": "Russian",
     "path": "ru.json"}
-  ]
+  ],
+  "download": "https://github.com/sergeyKazakovW/wod-v5-russian/archive/refs/heads/main.zip"
 }
